@@ -1,0 +1,7 @@
+How does the Internet Work? 
+
+ANSWER: The Internet is a very VERY complicated place and code. The internet has two levels, the internet with the infrastructure with the server and the server code, and the web is built on top of the internet, and is the part of the internet that the public can play and touch ex: webpages,facebook.com. 
+
+What happens when you click on a link?
+
+ANSWER: CLick on the link and it tells the browser to change the page to the link. Then the browser reaches out to that domain and requests to reach it's server. Once the request is recieved it can be accepted or declined, if accepted the browser will finish execution and receive page acceptance and load the content,
